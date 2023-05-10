@@ -78,7 +78,7 @@ if selected == "Home":
    
    st_lottie(animation)
 
-   st.write("<p style='font-family: Georgia; text_align: justify; color: white;'>Alat ini digunakan untuk mengidentifikasi apakah berat badan Anda termasuk dalam kategori ideal atau tidak. Kalkulator ini dapat digunakan oleh seseorang yang berusia 18 tahun ke atas.</p>", unsafe_allow_html=True)
+   st.write("<p style='font-family: Georgia; text-align: justify; color: white;'>Alat ini digunakan untuk mengidentifikasi apakah berat badan Anda termasuk dalam kategori ideal atau tidak. Kalkulator ini dapat digunakan oleh seseorang yang berusia 18 tahun ke atas.</p>", unsafe_allow_html=True)
    
    
 if selected == "BMI Calculator":
