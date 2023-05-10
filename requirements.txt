@@ -8,3 +8,4 @@ Image
 numpy==1.21.4
 Pillow==9.2.0
 pycaret
+streamlit-lottie
