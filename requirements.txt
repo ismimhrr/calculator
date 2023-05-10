@@ -1,0 +1,10 @@
+pandas==1.3.5
+request
+s3fs==0.4.*
+streamlit==1.11.1
+streamlit
+streamlit-option-menu==0.3.2
+Image
+numpy==1.21.4
+Pillow==9.2.0
+pycaret
