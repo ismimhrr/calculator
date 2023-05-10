@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* Mengatur warna teks */
+h1, h4, p {
+  color: rgb(250, 254, 253);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+div.st-bf{
+  flex-direction: initial; 
+}
+
